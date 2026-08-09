@@ -1,6 +1,6 @@
 # python_version: 36
 PyYAML==5.1.2
-aiohttp==3.6.2
+aiohttp==3.14.1
 arrow==0.14.7  # pyup: ignore
 asn1crypto==1.2.0
 async_timeout==3.0.1
@@ -31,7 +31,7 @@ markupsafe==1.1.1
 mohawk==0.3.4  # pyup: ignore
 more-itertools==7.2.0
 multidict==4.5.2
-pyasn1==0.4.7
+pyasn1==0.6.4
 pycparser==2.19
 pyrsistent==0.15.5
 python-dateutil==2.8.0
